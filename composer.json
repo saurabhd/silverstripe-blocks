@@ -1,5 +1,5 @@
 {
-    "name": "sheadawson/silverstripe-blocks",
+    "name": "saurabhd/silverstripe-blocks",
     "description": "An alternative to the SilverStripe Widgets module.",
     "type": "silverstripe-module",
     "keywords": [
@@ -7,11 +7,11 @@
         "blocks",
         "widgets"
     ],
-    "homepage": "http://github.com/sheadawson/silverstripe-blocks",
+    "homepage": "http://github.com/saurabhd/silverstripe-blocks",
     "authors": [
         {
-            "name": "Shea Dawson",
-            "email": "shea@silverstripe.com.au"
+            "name": "Saurabh Dhariwal",
+            "email": "saurabhdhariwal.com@gmail.com"
         }
     ],
     "require": {
